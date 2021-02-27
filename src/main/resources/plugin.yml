@@ -1,0 +1,8 @@
+main: com._11b11t.plugin11b11t.NullBNullTPatch
+name: NullBNullTPatch
+version: '0.4'
+description: NullBNullTPatch plugin
+commands:
+  11breload:
+    description: Reload
+    usage: /<command> <text>
